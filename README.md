@@ -1,1 +1,1 @@
-# Color-Picker-Responsive-Website
+# Color-finder-Responsive-Website
